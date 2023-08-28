@@ -6,18 +6,20 @@
 
 `SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Será criado um blog com dicas, perspectivas, e ideias sobre viagens
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Adriel Agnes Costa Bosco
+* Carlos Eduardo de Lima Assis
+* Davi Haniel Reis Silva
+* Matheus Carvalho
+* Pedro Lima Pedrosa
+* Sabrina da Silva Freitas
 
 ## Orientador
 
-* Nome completo do professor 1
+* Bernardo Jeunon de Alencar
 
 ## Instruções de utilização
 

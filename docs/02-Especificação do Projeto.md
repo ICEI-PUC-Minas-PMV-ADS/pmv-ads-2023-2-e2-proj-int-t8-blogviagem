@@ -106,8 +106,15 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| O usuário pode acessar o site com ou sem login | MÉDIA | 
+|RF-002| O usuário pode visualizar a página inicial com informações práticas.| ALTA |
+|RF-003| O usuário pode procurar por postagens na barra de pesquisa.| MÉDIA |
+|RF-004| O usuário pode realizar filtragem entre os conteúdos da página.| BAIXA |
+|RF-005| O usuário pode acessar detalhes de uma postagem da página.| ALTA |
+|RF-006| O usuário pode avaliar (com gostei ou não gostei) alguma postagem.| MÉDIA |
+|RF-007| Permite que os usuários gerenciem suas contas, redefinam senhas e atualizem informações de contato.| ALTA |
+|RF-008| Integra links e informações para recursos externos, como sites de reserva de hospedagem e atividades.| BAIXA |
+|RF-009| O administrador do site pode fazer login em um painel de administração seguro.| ALTA |
 
 ### Requisitos não Funcionais
 

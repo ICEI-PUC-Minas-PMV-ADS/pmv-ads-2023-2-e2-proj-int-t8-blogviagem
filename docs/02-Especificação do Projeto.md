@@ -37,10 +37,57 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|EU COMO... `MARINA, a exploradora iniciante`                   | QUERO/PRECISO ... `FUNCIONALIDADE`                                                                     | PARA ... `MOTIVO/VALOR`                                        |
+|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
+|**Usuário do sistema**                                         | **Facilidade de Uso:** O blog deve ter uma interface simples e intuitiva,                              | **Facilidade de uso** para tornar a usabilidade do sistema     |
+|**Administradora**                                              permitindo que Marina crie e publique postagens sem dificuldades,                                        mais flexível, auxiliando Marina a realizar seus objetivos 
+|**Criadora de conteúdo**                                        mesmo que ela não tenha experiência técnica.                                                             dentro do blog de viagens.                                      |
+|**Fotográfa**                                                  | **Layout Atrativo:** Um design atraente e responsivo é importante para que as postagens                | **Layout Atrativo** O layout é essencial para uma  boa experiência
+                                                                                                                                                                          de uso.                                                         |                           
+                                                                  para que Marina possa mostrar visualmente suas aventuras e dar vida às suas histórias.                 | **Categorização de postagens**  Para uma boa organização e uso de
+                                                                                                                                                                            filtros para busca dentro do blog, é essencial uma organização baseada
+                                                                                                                                                                          em categorização de postagens.                                   |
+                                                                | **Categorização de Postagens:** Marina deve ser capaz de categorizar suas postagens por destinos       | **Boa performance** É inegável que a otimização de um sistema ajuda
+                                                                                                                                                                          muito na hora de usá-lo, tornando mais prático, leve e satisfatório.|
+                                                                  tornando mais fácil para os leitores encontrarem o conteúdo que lhes interessa.                        |                                                          
+                                                                | **Boa Performance:** O blog deve carregar rapidamente e ser confiável para garantir
+                                                                  uma experiência de usuário sem problemas.                                                              |                                                                    |                                                                                                           
+
+
+
+
+
+|EU COMO... `PEDRO, o viajante experiente`                      | QUERO/PRECISO ... `FUNCIONALIDADE`                                                                     | PARA ... `MOTIVO/VALOR`                                        |
+|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
+|Usuário do sistema                                             | Registrar minhas tarefas                                                                               | Não esquecer de fazê-las                                       |
+
+
+
+
+|EU COMO... `LUCIA, a viajante insegura`                         | QUERO/PRECISO ... `FUNCIONALIDADE`                                                                     | PARA ... `MOTIVO/VALOR`                                        |
+|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
+|Usuário do sistema                                             | Registrar minhas tarefas                                                                               | Não esquecer de fazê-las                                       |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 

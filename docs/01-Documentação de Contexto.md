@@ -1,6 +1,30 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+## Visão Geral
+O blog "Pe na Estrada" é uma plataforma dedicada a compartilhar histórias e informações inspiradoras sobre viagens e turismo. Nosso objetivo é levar os leitores a uma jornada virtual por destinos exóticos, culturas fascinantes e experiências inesquecíveis. Através de relatos autênticos, guias práticos, dicas de planejamento e fotografias envolventes, buscamos despertar o desejo de explorar novos horizontes e criar memórias enriquecedoras por meio das viagens.
+
+### Contexto
+Vivemos em um mundo cada vez mais conectado, onde as possibilidades de viajar e explorar diferentes partes do globo estão mais acessíveis do que nunca. No entanto, a vasta quantidade de informações disponíveis pode ser esmagadora, e muitas vezes é difícil encontrar fontes confiáveis e inspiradoras para planejar uma viagem significativa. O blog "Pe na Estrada" surge como uma resposta a essa necessidade, oferecendo um espaço onde os amantes de viagens podem encontrar inspiração, orientação e recursos práticos.
+
+### Problema
+O principal desafio enfrentado pelos viajantes é a sobrecarga de informações dispersas em toda a internet. Muitas vezes, falta uma fonte consolidada que ofereça informações abrangentes, conselhos reais de quem já viajou e insights que vão além dos pontos turísticos tradicionais. Além disso, a falta de autenticidade em muitos blogs de turismo pode deixar os leitores céticos em relação às experiências compartilhadas.
+
+### Objetivos
+Inspirar e Informar: Queremos inspirar os leitores a explorar o mundo, apresentando destinos emocionantes e únicos por meio de histórias pessoais e fotografias autênticas.
+Guiar e Orientar: Forneceremos guias práticos, itinerários detalhados, dicas de planejamento e informações relevantes para ajudar os leitores a planejar suas próprias viagens.
+Promover a Autenticidade: Valorizamos experiências reais e autênticas. Vamos priorizar relatos sinceros e dicas honestas para enriquecer as viagens dos nossos leitores.
+Construir uma Comunidade: Pretendemos criar um espaço onde os entusiastas de viagens possam se conectar, compartilhar suas próprias histórias e trocar dicas valiosas.
+Justificativa:
+Viajar vai além do turismo convencional; é uma oportunidade de crescimento pessoal, aprendizado intercultural e criação de memórias duradouras. O "Pe na Estrada" nasce da paixão por essas experiências transformadoras e da crença de que o compartilhamento de histórias pode inspirar outras pessoas a explorar o desconhecido. Queremos preencher a lacuna entre informações práticas e inspiração genuína, criando um recurso confiável e cativante para os viajantes modernos.
+
+## Público-Alvo
+O público-alvo do "Pe na Estrada" inclui:
+
+Viajantes em potencial que buscam inspiração para escolher seus destinos.
+Viajantes ativos interessados em explorar novos lugares e culturas de maneira autêntica.
+Aventureiros que desejam explorar trilhas menos percorridas e experiências únicas.
+Pessoas que valorizam o aprendizado intercultural e a conexão com diferentes formas de vida.
+Em resumo, o blog "Pe na Estrada" pretende ser muito mais do que um guia de viagens convencional. Queremos ser uma fonte de inspiração e orientação, ajudando os leitores a explorar, aprender e crescer por meio das suas jornadas pelo mundo.
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.

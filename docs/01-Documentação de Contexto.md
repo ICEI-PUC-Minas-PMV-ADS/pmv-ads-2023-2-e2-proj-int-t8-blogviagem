@@ -102,7 +102,7 @@ Pedro está planejando uma viagem de voluntariado para um país em desenvolvimen
 Diagramas de Personas:
 (Os diagramas de personas não podem ser visualizados em texto, mas eles ilustram graficamente as características, objetivos, necessidades e comportamentos das personas.)
 
-Mapa de Stakeholders:
+*Mapa de Stakeholders:*
 (O mapa de stakeholders não pode ser visualizado em texto, mas ele identifica os diferentes grupos envolvidos no projeto, como usuários, equipes de desenvolvimento, especialistas em viagens, etc.)
 
 **Resumo:**

@@ -102,8 +102,54 @@ Pedro está planejando uma viagem de voluntariado para um país em desenvolvimen
 Diagramas de Personas:
 (Os diagramas de personas não podem ser visualizados em texto, mas eles ilustram graficamente as características, objetivos, necessidades e comportamentos das personas.)
 
-*Mapa de Stakeholders:*
-(O mapa de stakeholders não pode ser visualizado em texto, mas ele identifica os diferentes grupos envolvidos no projeto, como usuários, equipes de desenvolvimento, especialistas em viagens, etc.)
+**Ordem Primária:**
 
-**Resumo:**
-O público-alvo da aplicação varia desde iniciantes curiosos até viajantes experientes, cada um com diferentes níveis de conhecimento em tecnologia e necessidades específicas relacionadas a viagens. Através das personas e do mapa de stakeholders, podemos entender melhor as motivações, expectativas e papéis de cada grupo de usuários, permitindo que a aplicação seja projetada de maneira a atender às suas necessidades de maneira eficaz e envolvente.
+1. **Usuários Finais:**
+   - Exploradores Iniciantes
+   - Viajantes Experientes
+   - Famílias em Viagem
+   - Aventureiros e Adeptos do Ecoturismo
+   - Viajantes de Negócios
+   - Curiosos Culturais
+
+2. **Desenvolvedores e Designers:**
+   - Equipe de Desenvolvimento de Software
+   - Designers de UI/UX
+
+**Ordem Secundária:**
+
+3. **Colaboradores de Conteúdo:**
+   - Viajantes e Aventureiros Contribuintes
+   - Escritores de Conteúdo de Viagem
+   - Fotógrafos de Viagem
+
+4. **Especialistas em Viagens:**
+   - Especialistas em Turismo Sustentável
+   - Especialistas em Ecoturismo
+   - Blogueiros de Viagem
+
+5. **Parceiros Externos:**
+   - Provedores de Dados (Previsão do Tempo, Conversão de Moedas)
+   - Agências de Viagens
+   - Companhias de Transporte (Aéreas, Ferrovias, Ônibus)
+
+**Ordem Terciária:**
+
+6. **Administradores e Moderadores:**
+   - Equipe Responsável pelo Gerenciamento do Conteúdo
+   - Moderadores da Comunidade
+
+7. **Empresas de Tecnologia:**
+   - Empresas de Hospedagem de Sites e Domínios
+   - Fornecedores de Serviços em Nuvem
+
+8. **Patrocinadores e Investidores:**
+   - Empresas de Turismo e Viagens
+   - Empresas de Tecnologia
+
+9. **Clientes e Anunciantes:**
+   - Empresas de Produtos Relacionados a Viagens
+   - Anunciantes Interessados em Alcançar o Público de Viagens
+
+10. **Órgãos Reguladores:**
+    - Entidades Regulatórias do Setor de Turismo

@@ -113,8 +113,15 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| O sistema deve ser intuitivo e fácil de navegar, mesmo para usuários não técnicos. | MÉDIA |
+|RNF-002| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
+|RNF-003| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-004| O código do sistema deve ser organizado e bem documentado para que futuras atualizações e correções possam ser implementadas com facilidade | BAIXA |
+|RNF-005| As URLs das postagens e páginas devem ser claras e amigáveis para os mecanismos de busca |  BAIXA |
+|RNF-006| O blog deve permitir a configuração de meta tags personalizadas para melhorar o SEO de cada postagem |  MÉDIA |
+|RNF-007| O blog deve facilitar o compartilhamento de postagens em plataformas de mídia social |  BAIXA |
+|RNF-008| Deve ser possível incorporar imagens, vídeos e outros tipos de mídia nas postagens |  ALTA |
+|RNF-009| O blog deve incluir informações claras sobre política de privacidade e uso de cookies, conforme exigido por regulamentações relevantes |  BAIXA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 

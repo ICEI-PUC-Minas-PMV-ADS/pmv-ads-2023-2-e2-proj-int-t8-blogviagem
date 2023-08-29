@@ -37,12 +37,31 @@ Tecnologicamente, a aplicação se aproveita das plataformas online, como websit
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+### 1. Objetivo Geral
+Desenvolver um software inovador que solucione os desafios enfrentados pelos viajantes no processo de planejamento de viagens, proporcionando informações confiáveis, orientações autênticas e inspiração para criar experiências de viagem significativas.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+### 2. Objetivos Específicos
+
+#### 2.1 Agregação de Conteúdo Autoritativo
+Coletar, filtrar e apresentar informações relevantes de maneira organizada, reunindo conteúdo confiável de fontes autênticas, como viajantes experientes, locais e especialistas em turismo. Isso inclui informações sobre destinos, atrações, itinerários, dicas práticas e avaliações.
+
+#### 2.2 Fomentar a Comunidade de Viajantes
+Criar um ambiente interativo onde os usuários possam compartilhar suas próprias experiências, dicas e avaliações de destinos, enriquecendo o conteúdo com perspectivas pessoais e autênticas. Incentivar discussões, comentários e interações entre os membros da comunidade.
+
+#### 2.3 Exploração Personalizada
+Desenvolver funcionalidades que permitam aos usuários filtrar e personalizar as informações com base em seus interesses, orçamento, preferências de viagem e outros critérios. Isso inclui a criação de itinerários personalizados e a sugestão de atividades de acordo com os perfis individuais.
+
+#### 2.4 Integrações de Utilidade
+Implementar integrações com serviços externos, como previsão do tempo, conversão de moedas, informações de transporte público e reservas de hospedagem. Isso visa oferecer uma experiência completa e prática aos usuários durante o planejamento e a execução das viagens.
+
+#### 2.5 Design Atraente e Usabilidade
+Priorizar o design intuitivo e a experiência do usuário, garantindo que o software seja fácil de navegar, acessível em diferentes dispositivos e visualmente atraente. Isso inclui a criação de um layout responsivo e amigável.
+
+#### 2.6 Validação e Feedback dos Usuários
+Coletar feedback dos usuários durante o desenvolvimento e após o lançamento da aplicação para identificar melhorias, ajustes e novas funcionalidades que possam enriquecer ainda mais a experiência dos usuários.
+
+Ao atingir esses objetivos, o software se tornará uma ferramenta indispensável para quem busca planejar suas viagens de maneira informada, autêntica e personalizada, contribuindo para uma exploração do mundo mais significativa e enriquecedora.
+
 
 ## Justificativa
 

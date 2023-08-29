@@ -1,10 +1,8 @@
-# TÍTULO DO PROJETO
+# Pé na Estrada
 
-`CURSO`
+`ADS`
 
-`DISCIPLINA`
-
-`SEMESTRE`
+`2º`
 
 Será criado um blog com dicas, perspectivas, e ideias sobre viagens
 

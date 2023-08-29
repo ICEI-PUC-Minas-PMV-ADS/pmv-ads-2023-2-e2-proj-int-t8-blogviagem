@@ -37,27 +37,27 @@ Tecnologicamente, a aplicação se aproveita das plataformas online, como websit
 
 ## Objetivos
 
-### 1. Objetivo Geral
+### **1. Objetivo Geral**
 Desenvolver um software inovador que solucione os desafios enfrentados pelos viajantes no processo de planejamento de viagens, proporcionando informações confiáveis, orientações autênticas e inspiração para criar experiências de viagem significativas.
 
-### 2. Objetivos Específicos
+### **2. Objetivos Específicos**
 
-#### 2.1 Agregação de Conteúdo Autoritativo
+#### **2.1 Agregação de Conteúdo Autoritativo**
 Coletar, filtrar e apresentar informações relevantes de maneira organizada, reunindo conteúdo confiável de fontes autênticas, como viajantes experientes, locais e especialistas em turismo. Isso inclui informações sobre destinos, atrações, itinerários, dicas práticas e avaliações.
 
-#### 2.2 Fomentar a Comunidade de Viajantes
+#### **2.2 Fomentar a Comunidade de Viajantes**
 Criar um ambiente interativo onde os usuários possam compartilhar suas próprias experiências, dicas e avaliações de destinos, enriquecendo o conteúdo com perspectivas pessoais e autênticas. Incentivar discussões, comentários e interações entre os membros da comunidade.
 
-#### 2.3 Exploração Personalizada
+#### **2.3 Exploração Personalizada**
 Desenvolver funcionalidades que permitam aos usuários filtrar e personalizar as informações com base em seus interesses, orçamento, preferências de viagem e outros critérios. Isso inclui a criação de itinerários personalizados e a sugestão de atividades de acordo com os perfis individuais.
 
-#### 2.4 Integrações de Utilidade
+#### **2.4 Integrações de Utilidade**
 Implementar integrações com serviços externos, como previsão do tempo, conversão de moedas, informações de transporte público e reservas de hospedagem. Isso visa oferecer uma experiência completa e prática aos usuários durante o planejamento e a execução das viagens.
 
-#### 2.5 Design Atraente e Usabilidade
+#### **2.5 Design Atraente e Usabilidade**
 Priorizar o design intuitivo e a experiência do usuário, garantindo que o software seja fácil de navegar, acessível em diferentes dispositivos e visualmente atraente. Isso inclui a criação de um layout responsivo e amigável.
 
-#### 2.6 Validação e Feedback dos Usuários
+#### **2.6 Validação e Feedback dos Usuários**
 Coletar feedback dos usuários durante o desenvolvimento e após o lançamento da aplicação para identificar melhorias, ajustes e novas funcionalidades que possam enriquecer ainda mais a experiência dos usuários.
 
 Ao atingir esses objetivos, o software se tornará uma ferramenta indispensável para quem busca planejar suas viagens de maneira informada, autêntica e personalizada, contribuindo para uma exploração do mundo mais significativa e enriquecedora.
@@ -67,30 +67,43 @@ Ao atingir esses objetivos, o software se tornará uma ferramenta indispensável
 
 A escolha de desenvolver essa aplicação surge da crescente necessidade de melhorar a experiência de planejamento de viagens para os indivíduos, especialmente em um mundo onde as oportunidades de exploração estão mais acessíveis do que nunca, mas a qualidade da informação muitas vezes deixa a desejar. A motivação para trabalhar com essa aplicação é impulsionada pelas seguintes razões:
 
-### 1. Enriquecer Experiências de Viagem
+### **1. Enriquecer Experiências de Viagem**
 Viajar é uma forma poderosa de crescimento pessoal, aprendizado cultural e construção de memórias duradouras. Ao oferecer informações confiáveis e autênticas, podemos enriquecer as experiências de viagem, permitindo que as pessoas explorem destinos de maneira mais significativa.
 
-### 2. Superar a Sobrecarga de Informações
+### **2. Superar a Sobrecarga de Informações**
 A vasta quantidade de informações disponíveis online pode ser esmagadora, e a falta de fontes confiáveis dificulta a tomada de decisões informadas. Essa aplicação visa consolidar informações relevantes, tornando o processo de planejamento mais eficiente e agradável.
 
-### 3. Promover Conexões Autênticas
+### **3. Promover Conexões Autênticas**
 Viagens autênticas vão além dos pontos turísticos populares. Ao permitir que viajantes compartilhem suas próprias experiências e dicas, estamos promovendo uma compreensão mais profunda das culturas e das comunidades locais.
 
-### 4. Simplificar Planejamento
+### **4. Simplificar Planejamento**
 O planejamento de viagens muitas vezes envolve a combinação de várias fontes de informação, desde guias de viagem impressos até pesquisas online. Ao concentrar informações confiáveis em uma plataforma intuitiva, simplificamos o processo para os usuários.
 
-### 5. Facilitar Decisões
+### **5. Facilitar Decisões**
 A capacidade de filtrar e personalizar informações permite que os viajantes tomem decisões informadas de acordo com suas preferências e orçamentos, resultando em itinerários mais adequados às suas necessidades.
 
-## Público-Alvo
+## **Público-Alvo**
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Para uma visão mais abrangente dos diferentes perfis de usuários que utilizarão a aplicação, apresentarei informações sobre o público-alvo por meio de descrições textuais, diagramas de personas e um mapa de stakeholders.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+### Descrições Textuais
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+#### **Persona 1 - Marina, a Exploradora Iniciante:**
+
+Marina é uma jovem universitária que sempre sonhou em viajar, mas nunca teve a oportunidade.
+Ela tem conhecimento básico de tecnologia e usa principalmente seu smartphone para redes sociais e mensagens.
+Seu objetivo é planejar sua primeira viagem ao exterior e está procurando informações confiáveis sobre destinos populares, orçamento e como montar um itinerário.
+
+#### **Persona 2 - Pedro, o Viajante Experiente:**
+
+Pedro é um engenheiro de software com um amor profundo por viagens e culturas diferentes.
+Ele é um usuário experiente de tecnologia e adora usar aplicativos para otimizar sua experiência de viagem.
+Pedro está planejando uma viagem de voluntariado para um país em desenvolvimento e está em busca de informações específicas sobre voluntariado, acomodação local e dicas para interações culturais autênticas.
+Diagramas de Personas:
+(Os diagramas de personas não podem ser visualizados em texto, mas eles ilustram graficamente as características, objetivos, necessidades e comportamentos das personas.)
+
+Mapa de Stakeholders:
+(O mapa de stakeholders não pode ser visualizado em texto, mas ele identifica os diferentes grupos envolvidos no projeto, como usuários, equipes de desenvolvimento, especialistas em viagens, etc.)
+
+**Resumo:**
+O público-alvo da aplicação varia desde iniciantes curiosos até viajantes experientes, cada um com diferentes níveis de conhecimento em tecnologia e necessidades específicas relacionadas a viagens. Através das personas e do mapa de stakeholders, podemos entender melhor as motivações, expectativas e papéis de cada grupo de usuários, permitindo que a aplicação seja projetada de maneira a atender às suas necessidades de maneira eficaz e envolvente.

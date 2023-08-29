@@ -20,13 +20,51 @@ Viajar vai além do turismo convencional; é uma oportunidade de crescimento pes
 ## Público-Alvo
 O público-alvo do "Pé na Estrada" inclui:
 
-Viajantes em potencial que buscam inspiração para escolher seus destinos.
-Viajantes ativos interessados em explorar novos lugares e culturas de maneira autêntica.
-Aventureiros que desejam explorar trilhas menos percorridas e experiências únicas.
-Pessoas que valorizam o aprendizado intercultural e a conexão com diferentes formas de vida.
-Em resumo, o blog "Pé na Estrada" pretende ser muito mais do que um guia de viagens convencional. Queremos ser uma fonte de inspiração e orientação, ajudando os leitores a explorar, aprender e crescer por meio das suas jornadas pelo mundo.
+1. Viajantes em potencial que buscam inspiração para escolher seus destinos.
+2. Viajantes ativos interessados em explorar novos lugares e culturas de maneira autêntica.
+3. Aventureiros que desejam explorar trilhas menos percorridas e experiências únicas.
+4. Pessoas que valorizam o aprendizado intercultural e a conexão com diferentes formas de vida.
+5. Em resumo, o blog "Pé na Estrada" pretende ser muito mais do que um guia de viagens convencional. Queremos ser uma fonte de inspiração e orientação, ajudando os leitores a explorar, aprender e crescer por meio das suas jornadas pelo mundo.
 
 ## Problema
+
+Problema:
+O processo de planejamento de viagens enfrenta desafios significativos devido à sobrecarga de informações dispersas e à falta de fontes confiáveis que forneçam orientações autênticas. Os viajantes muitas vezes lutam para encontrar informações relevantes, dicas práticas e insights reais sobre destinos, itinerários e experiências, o que pode levar a escolhas inadequadas e a experiências de viagem abaixo das expectativas.
+
+Contexto:
+No cenário atual, as pessoas têm acesso a uma infinidade de recursos online relacionados a viagens. No entanto, a qualidade e autenticidade desses recursos podem variar amplamente. Blogs de turismo frequentemente destacam os aspectos mais positivos e glamorosos das viagens, deixando de fora os desafios e as experiências menos conhecidas. Além disso, a ascensão das redes sociais levou a um aumento de imagens idealizadas que nem sempre refletem a realidade das viagens.
+
+Tecnologicamente, a aplicação se aproveita das plataformas online, como websites e possivelmente aplicativos móveis. Ela pode ser construída usando tecnologias web convencionais, como HTML, CSS e JavaScript, para a criação do site. Para funcionalidades mais dinâmicas, integrações com bancos de dados para armazenar informações sobre destinos, avaliações de usuários e dicas de viagem podem ser implementadas usando tecnologias como MySQL, PostgreSQL ou MongoDB. Além disso, a aplicação pode fazer uso de APIs para exibir informações em tempo real, como previsão do tempo, cotações de moedas e informações de transporte.
+
+O público-alvo da aplicação inclui viajantes em potencial, amantes de viagens experientes e aventureiros que buscam informações autênticas para otimizar suas experiências de viagem. Portanto, a aplicação tem o propósito de atuar como um guia confiável e inspirador para quem deseja explorar o mundo de maneira significativa e enriquecedora.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
 Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.

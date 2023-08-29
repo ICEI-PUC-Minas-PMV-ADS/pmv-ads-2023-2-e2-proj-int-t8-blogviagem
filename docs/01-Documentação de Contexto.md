@@ -65,12 +65,30 @@ Ao atingir esses objetivos, o software se tornará uma ferramenta indispensável
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+A escolha de desenvolver essa aplicação surge da crescente necessidade de melhorar a experiência de planejamento de viagens para os indivíduos, especialmente em um mundo onde as oportunidades de exploração estão mais acessíveis do que nunca, mas a qualidade da informação muitas vezes deixa a desejar. A motivação para trabalhar com essa aplicação é impulsionada pelas seguintes razões:
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+### 1. Enriquecer Experiências de Viagem
+Viajar é uma forma poderosa de crescimento pessoal, aprendizado cultural e construção de memórias duradouras. Ao oferecer informações confiáveis e autênticas, podemos enriquecer as experiências de viagem, permitindo que as pessoas explorem destinos de maneira mais significativa.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+### 2. Superar a Sobrecarga de Informações
+A vasta quantidade de informações disponíveis online pode ser esmagadora, e a falta de fontes confiáveis dificulta a tomada de decisões informadas. Essa aplicação visa consolidar informações relevantes, tornando o processo de planejamento mais eficiente e agradável.
+
+### 3. Promover Conexões Autênticas
+Viagens autênticas vão além dos pontos turísticos populares. Ao permitir que viajantes compartilhem suas próprias experiências e dicas, estamos promovendo uma compreensão mais profunda das culturas e das comunidades locais.
+
+### 4. Simplificar Planejamento
+O planejamento de viagens muitas vezes envolve a combinação de várias fontes de informação, desde guias de viagem impressos até pesquisas online. Ao concentrar informações confiáveis em uma plataforma intuitiva, simplificamos o processo para os usuários.
+
+### 5. Facilitar Decisões Informedas
+A capacidade de filtrar e personalizar informações permite que os viajantes tomem decisões informadas de acordo com suas preferências e orçamentos, resultando em itinerários mais adequados às suas necessidades.
+
+Uso de Questionários, Entrevistas e Dados Estatísticos:
+
+Para esclarecer os detalhes do problema, o grupo de trabalho pode fazer uso de questionários e entrevistas com viajantes reais. Isso permitirá identificar os principais desafios enfrentados no planejamento de viagens, as fontes de informação mais confiáveis e as lacunas que precisam ser preenchidas.
+
+Além disso, dados estatísticos sobre as tendências de busca por informações de viagens, as preferências dos viajantes em termos de destinos e atividades, bem como as áreas de maior interesse, podem ajudar a orientar a abordagem da aplicação e a definição de recursos prioritários.
+
+No final, a importância de trabalhar com essa aplicação reside na criação de uma ferramenta que facilita a conexão com o mundo e promove experiências de viagem enriquecedoras, alinhadas com as necessidades e expectativas dos viajantes modernos.
 
 ## Público-Alvo
 

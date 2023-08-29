@@ -79,16 +79,8 @@ Viagens autênticas vão além dos pontos turísticos populares. Ao permitir que
 ### 4. Simplificar Planejamento
 O planejamento de viagens muitas vezes envolve a combinação de várias fontes de informação, desde guias de viagem impressos até pesquisas online. Ao concentrar informações confiáveis em uma plataforma intuitiva, simplificamos o processo para os usuários.
 
-### 5. Facilitar Decisões Informedas
+### 5. Facilitar Decisões
 A capacidade de filtrar e personalizar informações permite que os viajantes tomem decisões informadas de acordo com suas preferências e orçamentos, resultando em itinerários mais adequados às suas necessidades.
-
-Uso de Questionários, Entrevistas e Dados Estatísticos:
-
-Para esclarecer os detalhes do problema, o grupo de trabalho pode fazer uso de questionários e entrevistas com viajantes reais. Isso permitirá identificar os principais desafios enfrentados no planejamento de viagens, as fontes de informação mais confiáveis e as lacunas que precisam ser preenchidas.
-
-Além disso, dados estatísticos sobre as tendências de busca por informações de viagens, as preferências dos viajantes em termos de destinos e atividades, bem como as áreas de maior interesse, podem ajudar a orientar a abordagem da aplicação e a definição de recursos prioritários.
-
-No final, a importância de trabalhar com essa aplicação reside na criação de uma ferramenta que facilita a conexão com o mundo e promove experiências de viagem enriquecedoras, alinhadas com as necessidades e expectativas dos viajantes modernos.
 
 ## Público-Alvo
 

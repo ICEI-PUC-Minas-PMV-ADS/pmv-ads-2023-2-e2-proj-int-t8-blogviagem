@@ -8,7 +8,18 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+Persona 1 - Marina, a Exploradora Iniciante:
+Marina é uma jovem universitária que sempre sonhou em viajar, mas nunca teve a oportunidade. Ela tem conhecimento básico de tecnologia e usa principalmente seu smartphone para redes sociais e mensagens. Seu objetivo é planejar sua primeira viagem ao exterior e está procurando informações confiáveis sobre destinos populares, orçamento e como montar um itinerário.
+
+
+Persona 2 - Pedro, o Viajante Experiente:
+Pedro é um engenheiro de software com um amor profundo por viagens e culturas diferentes. Ele é um usuário experiente de tecnologia e adora usar aplicativos para otimizar sua experiência de viagem. Pedro está planejando uma viagem de voluntariado para um país em desenvolvimento e está em busca de informações específicas sobre voluntariado, acomodação local e dicas para interações culturais autênticas.
+
+
+Persona 3 - Lúcia, a Viajante Insegura:
+
+Lúcia é uma mulher na faixa dos 30 anos, que sempre teve o desejo de explorar novos lugares, mas se sente sobrecarregada pela enxurrada de informações nas redes sociais. Ela trabalha como professora do ensino médio e tem um relacionamento amoroso com a tecnologia, mas não é tão experiente quanto alguns de seus colegas quando se trata de utilizá-la para planejar viagens. A constante exposição a notícias contraditórias e opiniões divergentes na internet a deixa insegura sobre as decisões que precisa tomar em relação às suas viagens.
+
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 

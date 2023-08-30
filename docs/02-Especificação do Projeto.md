@@ -37,36 +37,32 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `MARINA, a exploradora iniciante`                   | QUERO/PRECISO ... `FUNCIONALIDADE`                                                                     | PARA ... `MOTIVO/VALOR`                                        |
-|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
-|**Usuário do sistema**                                         | **Facilidade de Uso:** O blog deve ter uma interface simples e intuitiva,                              | **Facilidade de uso** para tornar a usabilidade do sistema     |
-|**Administradora**                                              permitindo que Marina crie e publique postagens sem dificuldades,                                        mais flexível, auxiliando Marina a realizar seus objetivos 
-|**Criadora de conteúdo**                                        mesmo que ela não tenha experiência técnica.                                                             dentro do blog de viagens.                                      |
-|**Fotográfa**                                                  | **Layout Atrativo:** Um design atraente e responsivo é importante para que as postagens                | **Layout Atrativo** O layout é essencial para uma  boa experiência
-                                                                                                                                                                          de uso.                                                         |                           
-                                                                  para que Marina possa mostrar visualmente suas aventuras e dar vida às suas histórias.                 | **Categorização de postagens**  Para uma boa organização e uso de
-                                                                                                                                                                            filtros para busca dentro do blog, é essencial uma organização baseada
-                                                                                                                                                                          em categorização de postagens.                                   |
-                                                                | **Categorização de Postagens:** Marina deve ser capaz de categorizar suas postagens por destinos       | **Boa performance** É inegável que a otimização de um sistema ajuda
-                                                                                                                                                                          muito na hora de usá-lo, tornando mais prático, leve e satisfatório.|
-                                                                  tornando mais fácil para os leitores encontrarem o conteúdo que lhes interessa.                        |                                                          
-                                                                | **Boa Performance:** O blog deve carregar rapidamente e ser confiável para garantir
-                                                                  uma experiência de usuário sem problemas.                                                              |                                                                    |                                                                                                           
+| EU COMO... `MARINA, a exploradora iniciante` |  QUERO/PRECISO ... `FUNCIONALIDADE`      | PARA ... `MOTIVO/VALOR`                              |
+|----------------------------------------------|------------------------------------------|----------------------------------------------------  |
+| Usuária do sistema                           | Registrar minhas tarefas                 | Manter o controle de uso                             |
+| Fotógrafa                                    | Fazer Uploads de imagens                 | Registrar lugares visitados                          |
+| Criadora de conteúdo                         | Layout responsivo                        | Abrir em qualquer dispositivo de forma responsiva    |
+| exploradora iniciante                        | Filtros de busca e organização           | Melhor experiência de usuário                        |
+| Bilíngue                                     | Opção de mudança de idiomas              | Para se comunicar melhor onde estiver                |
 
 
+| EU COMO... `PEDRO, o viajnate experiente`    |  QUERO/PRECISO ... `FUNCIONALIDADE`      | PARA ... `MOTIVO/VALOR`                              |
+|----------------------------------------------|------------------------------------------|----------------------------------------------------  |
+| Usuário do sistema                           | Relatar experiências de viagem           | Dar dicas de viagem para pessoas que estão iniciando |
+| Jornalista                                   | Forúns de discussão                      | Dar avaliação e dicas de preços e hotéis             |
+| Exigente                                     | Pesquisar destinos e marcar lugares visitados | Para explorar novos lugares                     |
+| Objetivo no quer                             | Otimização no Blog                       | Para abrir com facilidade onde estiver               |
+| Guia turístico                               | Postar fotos com descrição               | Fazer anúncios de lugares em promoção 
 
 
+| EU COMO... `LUCIA, a viajante insegura`      |  QUERO/PRECISO ... `FUNCIONALIDADE`      | PARA ... `MOTIVO/VALOR`                              |
+|----------------------------------------------|------------------------------------------|----------------------------------------------------  |
+| Usuária do sistema                           | Fazer registros simples                  | Conseguir manter a manutenção no blog                |
+| Insegura                                     | Artigos e guias                          | Ter um melhor direcionamento do destino              |
+| Organizada                                   | Check-list e lista de preparativos       | Documentos necessários para levar para cada destino  |
+| Questionadora                                | Um serviço de FAQ                        | Em caso de emergências                               |
 
-|EU COMO... `PEDRO, o viajante experiente`                      | QUERO/PRECISO ... `FUNCIONALIDADE`                                                                     | PARA ... `MOTIVO/VALOR`                                        |
-|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
-|Usuário do sistema                                             | Registrar minhas tarefas                                                                               | Não esquecer de fazê-las                                       |
 
-
-
-
-|EU COMO... `LUCIA, a viajante insegura`                         | QUERO/PRECISO ... `FUNCIONALIDADE`                                                                     | PARA ... `MOTIVO/VALOR`                                        |
-|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
-|Usuário do sistema                                             | Registrar minhas tarefas                                                                               | Não esquecer de fazê-las                                       |
 
 
 

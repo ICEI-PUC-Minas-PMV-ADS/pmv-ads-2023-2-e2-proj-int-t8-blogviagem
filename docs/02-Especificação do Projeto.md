@@ -153,6 +153,12 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
+|03| A funcionalidade de postagem de conteúdo está disponível apenas para administradores |
+|04| Senhas dos usuários devem ser armazenadas de forma segura usando técnicas de hash e salting |
+|05| O tamanho máximo de um arquivo de imagem para ser carregado nas postagens é de 5 MB |
+|06| Os títulos das postagens devem ter entre 5 e 100 caracteres |
+|07| Os usuários devem concordar com os termos de uso |
+|08| Conteúdo explicitamente violento, sexualmente explícito ou de ódio não é permitido e será removido |
 
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.

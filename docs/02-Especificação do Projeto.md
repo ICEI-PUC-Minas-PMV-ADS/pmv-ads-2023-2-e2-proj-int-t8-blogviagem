@@ -102,15 +102,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O usuário pode acessar o site com ou sem login | MÉDIA | 
-|RF-002| O usuário pode visualizar a página inicial com informações práticas.| ALTA |
-|RF-003| O usuário pode procurar por postagens na barra de pesquisa.| MÉDIA |
-|RF-004| O usuário pode realizar filtragem entre os conteúdos da página.| BAIXA |
-|RF-005| O usuário pode acessar detalhes de uma postagem da página.| ALTA |
-|RF-006| O usuário pode avaliar (com gostei ou não gostei) alguma postagem.| MÉDIA |
-|RF-007| Permite que os usuários gerenciem suas contas, redefinam senhas e atualizem informações de contato.| ALTA |
-|RF-008| Integra links e informações para recursos externos, como sites de reserva de hospedagem e atividades.| BAIXA |
-|RF-009| O administrador do site pode fazer login em um painel de administração seguro.| ALTA |
+|RF-001| O usuário pode acessar o site com ou sem login | MÉDIA |
+|RF-002| O usuário pode recuperar a senha caso a esqueça | MÉDIA | 
+|RF-003| O usuário pode visualizar a página inicial com informações práticas.| ALTA |
+|RF-004| O usuário pode acessar detalhes de uma postagem.| MÉDIA |
+|RF-005| O usuário pode avaliar (com gostei ou não gostei) alguma postagem.| MÉDIA |
+|RF-006| O usuário pode gerenciar o seu perfil, mudando suas informações pessoais e credenciais de login.| ALTA |
+|RF-007| O usuário pode visualizar o seu histórico de postagens avaliadas.| BAIXA |
+|RF-008| O usuário administrador pode gerenciar o conteúdo do site.| ALTA |
 
 ### Requisitos não Funcionais
 
@@ -124,7 +123,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-006| O blog deve permitir a configuração de meta tags personalizadas para melhorar o SEO de cada postagem |  MÉDIA |
 |RNF-007| O blog deve facilitar o compartilhamento de postagens em plataformas de mídia social |  BAIXA |
 |RNF-008| Deve ser possível incorporar imagens, vídeos e outros tipos de mídia nas postagens |  ALTA |
-|RNF-009| O blog deve incluir informações claras sobre política de privacidade e uso de cookies, conforme exigido por regulamentações relevantes |  BAIXA | 
+|RNF-009| O blog deve incluir informações claras sobre política de privacidade e uso de cookies, conforme exigido por regulamentações relevantes |  BAIXA |
+|RNF-010| Integra links e informações para recursos externos, como sites de reserva de hospedagem e atividades.| BAIXA |
+|RNF-011| O usuário pode realizar filtragem entre os conteúdos da página.| BAIXA |
+|RNF-012| O usuário pode procurar por postagens na barra de pesquisa.| BAIXA |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
@@ -165,4 +167,4 @@ Enumere as restrições à sua solução. Lembre-se de que as restrições geral
 
 ## Diagrama de Casos de Uso
 
-![Exemplo de Caso de Uso](img/usecase.png)
+![Exemplo de Caso de Uso](img/usecase.jpeg)

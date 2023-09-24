@@ -38,25 +38,31 @@ Abaixo está a lista de tarefas a serem executadas pelos participantes:
 | Objetivo do Teste 	| Avaliar a usabilidade da tela de Login |
 | Ações Necessárias 	| 1. Acessar a tela home da aplicação; <br> 2. Clicar na opção “Login” no canto superior direito ; <br> 3. Preencher as informações de login e senha; <br> 4. Clicar em “Login". |
 
-| **Caso de Teste** 	| **CT-03 – Acessar Últimos Posts** 	|
+| **Caso de Teste** 	| **CT-03 – Editar Perfil** 	|
+|:---:	|:---:	|
+|	Perfil 	| Usuário (todos) |
+| Objetivo do Teste 	| Avaliar a usabilidade da Edição de Perfil |
+| Ações Necessárias 	| 1. Acessar a tela home da aplicação; <br> 2. Fazer login 3. Clicar em "Meu Perfil"; <br> 4. Clicar em "Editar Perfil"; <br> 5. Editar informações de Perfil; <br> 6. Clicar em "Salvar"; |
+
+| **Caso de Teste** 	| **CT-04 – Acessar Últimos Posts** 	|
 |:---:	|:---:	|
 |	Perfil 	| Usuário (todos) |
 | Objetivo do Teste 	| Avaliar o acesso aos Últimos Posts |
 | Ações Necessárias 	| 1. Acessar a tela home da aplicação; <br> 2. Clicar na opção “Últimos Posts” no canto inferior esquerdo; <br> 3. Clicar em um dos Post da lista entre os mais recentes; <br> 4. Ver as imagens e textos referentes aquele Post; <br> 5. Clicar em "Curtir". |
 
-| **Caso de Teste** 	| **CT-04 – Acessar Posts "Mais Populares"** 	|
+| **Caso de Teste** 	| **CT-05 – Acessar Posts "Mais Populares"** 	|
 |:---:	|:---:	|
 |	Perfil 	| Usuário (todos) |
 | Objetivo do Teste 	| Avaliar a usabilidade da lista de posts mais populares |
 | Ações Necessárias 	| 1. Acessar a tela home da aplicação; <br> 2. Clicar na Opção "Mais Populares" 3. Ver e clicar em um dos Posts da lista com mais "Curtidas"; <br> 4. Ver as imagens e textos referentes aquele Post; <br> 5. Clicar em "Curtir"; |
 
-| **Caso de Teste** 	| **CT-05 – Acessar Posts por "Destino** 	|
+| **Caso de Teste** 	| **CT-06 – Acessar Posts por "Destino** 	|
 |:---:	|:---:	|
 |	Perfil 	| Usuário (todos) |
 | Objetivo do Teste 	| Avaliar a usabilidade da ferramenta de filtro "Destinos" |
 | Ações Necessárias 	| 1. Acessar a tela home da aplicação; <br> 2. Clicar na opção "Destinos" no canto inferior central da pagina; <br> 3. Escolher entre as categorias de destino criadas e Clicar ; <br> 4. Visualisar todos os Post referentes aquele destino e clicar em um; <br> 5. Ver as imagens e textos referentes aquele Post; <br> 6. Clicar em "Curtir". |
 
-| **Caso de Teste** 	| **CT-06 – Acessar Post pelo menu de Busca** 	|
+| **Caso de Teste** 	| **CT-07 – Acessar Post pelo menu de Busca** 	|
 |:---:	|:---:	|
 |	Perfil 	| Usuário (todos) |
 | Objetivo do Teste 	| Avaliar a usabilidade do menu de busca para encontrar Posts |

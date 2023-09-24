@@ -36,7 +36,7 @@ Abaixo está a lista de tarefas a serem executadas pelos participantes:
 |:---:	|:---:	|
 |	Perfil 	| Usuário (todos) |
 | Objetivo do Teste 	| Avaliar a usabilidade da tela de Login |
-| Ações Necessárias 	| 1. Acessar a tela home da aplicação; <br> 2. Clicar na opção “Login” no canto superior direito ; <br> 3. Preencher as informações de email e senha; <br> 4. Clicar em “Entrar". |
+| Ações Necessárias 	| 1. Acessar a tela home da aplicação; <br> 2. Clicar na opção “Login” no canto superior direito ; <br> 3. Preencher as informações de login e senha; <br> 4. Clicar em “Entrar". |
 
 | **Caso de Teste** 	| **CT-03 – Acessar Últimos Posts** 	|
 |:---:	|:---:	|

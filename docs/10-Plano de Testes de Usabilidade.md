@@ -68,6 +68,12 @@ Abaixo está a lista de tarefas a serem executadas pelos participantes:
 | Objetivo do Teste 	| Avaliar a usabilidade do menu de busca para encontrar Posts |
 | Ações Necessárias 	| 1. Acessar a tela home da aplicação; <br> 2. Clicar na opção "Pesquisar" no canto superior direito; 3. Digitar uma palavra chave para a busca; <br> 4. Clicar em um Post referente a palavra chave; <br> 5. Ver as imagens e textos referentes aquele Post; <br> 6. Clicar em "Curtir"; |
 
+| **Caso de Teste** 	| **CT-08 – Adcionar Publicação** 	|
+|:---:	|:---:	|
+|	Perfil 	| Usuário (administrador) |
+| Objetivo do Teste 	| Avaliar a usabilidade do menu de adicionar publicação |
+| Ações Necessárias 	| 1. Acessar a tela home da aplicação; <br> 2. Fazer login 3. Clicar em "Meu Perfil"; <br> 4. Clicar em "Adicionar Publicação"; <br> 5. Editar informações da publicação texto e imagens; <br> 6. Clicar em "Salvar"; |
+
 ## Dados a serem coletados
 
 Os dados importantes a serem coletados incluem:

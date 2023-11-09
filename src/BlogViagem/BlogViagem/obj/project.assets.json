@@ -11547,11 +11547,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\PUC\\BlogViagem\\BlogViagem\\BlogViagem.csproj",
+      "projectUniqueName": "D:\\Projetos\\PUC\\pmv-ads-2023-2-e2-proj-int-t8-blogviagem\\src\\BlogViagem\\BlogViagem\\BlogViagem.csproj",
       "projectName": "BlogViagem",
-      "projectPath": "D:\\Projetos\\PUC\\BlogViagem\\BlogViagem\\BlogViagem.csproj",
+      "projectPath": "D:\\Projetos\\PUC\\pmv-ads-2023-2-e2-proj-int-t8-blogviagem\\src\\BlogViagem\\BlogViagem\\BlogViagem.csproj",
       "packagesPath": "C:\\Users\\Davi\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\PUC\\BlogViagem\\BlogViagem\\obj\\",
+      "outputPath": "D:\\Projetos\\PUC\\pmv-ads-2023-2-e2-proj-int-t8-blogviagem\\src\\BlogViagem\\BlogViagem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Davi\\AppData\\Roaming\\NuGet\\NuGet.Config"

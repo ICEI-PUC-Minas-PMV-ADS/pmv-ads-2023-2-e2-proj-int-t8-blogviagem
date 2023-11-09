@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2S1i4nwG+JFHCIBGG2s4T11t0dhvL0FvzPPdMspD5K8qzGAoS/ahXtCnY3YAUs78H79Ae7yK/+QkaqSQasSJkw==",
+  "dgSpecHash": "glTfWGFlsWQp0odq+z9paYHovuLStvp3tt2IU3xdtC8VBd9mRnbvVpmrkLP6mJHrsXEwotoqTQfaWV7OvoMkSw==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\PUC\\BlogViagem\\BlogViagem\\BlogViagem.csproj",
+  "projectFilePath": "D:\\Projetos\\PUC\\pmv-ads-2023-2-e2-proj-int-t8-blogviagem\\src\\BlogViagem\\BlogViagem\\BlogViagem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Davi\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Davi\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

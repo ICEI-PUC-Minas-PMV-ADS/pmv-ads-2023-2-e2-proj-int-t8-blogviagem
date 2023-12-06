@@ -13,7 +13,8 @@ Definição de como o software é estruturado em termos dos componentes que faze
 1. Linguagens de Programação:
 
 * C#: Para o desenvolvimento da lógica de negócios e da camada de backend.
-*HTML, CSS, JavaScript: Para o desenvolvimento da interface do usuário (frontend).
+
+*HTML, JavaScript: Para o desenvolvimento da interface do usuário (frontend).
 
 2. Banco de Dados:
 

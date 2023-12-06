@@ -12,7 +12,7 @@ Conjunto de slides em um arquivo PowerPoint ou PDF com a apresentação do proje
 
 ## Título do Projeto
 
-Nome e marca do projeto
+Pé na Estrada
 
 ## Identidade Visual (Marca, Design)
 

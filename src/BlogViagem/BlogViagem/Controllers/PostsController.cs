@@ -1,9 +1,11 @@
 ﻿using BlogViagem.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace BlogViagem.Controllers
 {
+    [Authorize(Roles ="Admin")]
     public class PostsController : Controller
     {
         private readonly AppDbContext _context;
@@ -29,15 +31,7 @@ namespace BlogViagem.Controllers
         { 
             if(ModelState.IsValid)
             {
-                Post novoPost = new Post
-                {
-                    Titulo = post.Titulo,
-                    Descricao = post.Descricao,
-                    Datapost = DateTime.Now,
-                    IdAdmin = post.IdAdmin,
-                };
-
-                _context.Posts.Add(novoPost);
+                _context.Posts.Add(post);
                 await _context.SaveChangesAsync(); 
                 return RedirectToAction("Index");
             }
@@ -66,15 +60,7 @@ namespace BlogViagem.Controllers
 
             if (ModelState.IsValid)
             {
-                Post novoPost = new Post
-                {
-                    ID=id,
-                    Titulo = post.Titulo,
-                    Descricao = post.Descricao,
-                    Datapost = DateTime.Now,
-                    IdAdmin = post.IdAdmin,
-                };
-                _context.Posts.Update(novoPost);
+                _context.Posts.Update(post);
                 await _context.SaveChangesAsync();
                 return RedirectToAction("Index");
             }

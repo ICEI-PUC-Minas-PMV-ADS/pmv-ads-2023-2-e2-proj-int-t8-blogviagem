@@ -48,27 +48,9 @@ Abaixo está a lista de tarefas a serem executadas pelos participantes:
 |:---:	|:---:	|
 |	Perfil 	| Usuário (todos) |
 | Objetivo do Teste 	| Avaliar o acesso aos Últimos Posts |
-| Ações Necessárias 	| 1. Acessar a tela home da aplicação; <br> 2. Clicar na opção “Últimos Posts” no canto inferior esquerdo; <br> 3. Clicar em um dos Post da lista entre os mais recentes; <br> 4. Ver as imagens e textos referentes aquele Post; <br> 5. Clicar em "Curtir". |
+| Ações Necessárias 	| 1. Acessar a tela home da aplicação; <br> 2. Clicar na opção “Últimos Posts” no canto inferior esquerdo; <br> 3. Clicar em um dos Post da lista entre os mais recentes; <br> 4. Ver as imagens e textos referentes aquele Post |
 
-| **Caso de Teste** 	| **CT-05 – Acessar Posts "Mais Populares"** 	|
-|:---:	|:---:	|
-|	Perfil 	| Usuário (todos) |
-| Objetivo do Teste 	| Avaliar a usabilidade da lista de posts mais populares |
-| Ações Necessárias 	| 1. Acessar a tela home da aplicação; <br> 2. Clicar na Opção "Mais Populares" 3. Ver e clicar em um dos Posts da lista com mais "Curtidas"; <br> 4. Ver as imagens e textos referentes aquele Post; <br> 5. Clicar em "Curtir"; |
-
-| **Caso de Teste** 	| **CT-06 – Acessar Posts por "Destino** 	|
-|:---:	|:---:	|
-|	Perfil 	| Usuário (todos) |
-| Objetivo do Teste 	| Avaliar a usabilidade da ferramenta de filtro "Destinos" |
-| Ações Necessárias 	| 1. Acessar a tela home da aplicação; <br> 2. Clicar na opção "Destinos" no canto inferior central da pagina; <br> 3. Escolher entre as categorias de destino criadas e Clicar ; <br> 4. Visualisar todos os Post referentes aquele destino e clicar em um; <br> 5. Ver as imagens e textos referentes aquele Post; <br> 6. Clicar em "Curtir". |
-
-| **Caso de Teste** 	| **CT-07 – Acessar Post pelo menu de Busca** 	|
-|:---:	|:---:	|
-|	Perfil 	| Usuário (todos) |
-| Objetivo do Teste 	| Avaliar a usabilidade do menu de busca para encontrar Posts |
-| Ações Necessárias 	| 1. Acessar a tela home da aplicação; <br> 2. Clicar na opção "Pesquisar" no canto superior direito; 3. Digitar uma palavra chave para a busca; <br> 4. Clicar em um Post referente a palavra chave; <br> 5. Ver as imagens e textos referentes aquele Post; <br> 6. Clicar em "Curtir"; |
-
-| **Caso de Teste** 	| **CT-08 – Adcionar Publicação** 	|
+| **Caso de Teste** 	| **CT-05 – Adcionar Publicação** 	|
 |:---:	|:---:	|
 |	Perfil 	| Usuário (administrador) |
 | Objetivo do Teste 	| Avaliar a usabilidade do menu de adicionar publicação |

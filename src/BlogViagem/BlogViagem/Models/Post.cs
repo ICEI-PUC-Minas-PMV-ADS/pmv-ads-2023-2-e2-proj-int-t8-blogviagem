@@ -17,7 +17,8 @@ namespace BlogViagem.Models
         [Display(Name = "Descrição")]
         public string Descricao { get; set; }
 
-        [ScaffoldColumn(false)]
+        public string Imagem { get; set; }
+
         public DateTime Datapost { get; set; }
 
         public int IdAdmin { get; set; }

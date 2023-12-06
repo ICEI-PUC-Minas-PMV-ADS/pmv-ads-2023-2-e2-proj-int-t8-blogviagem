@@ -9,6 +9,7 @@ namespace BlogViagem.Models
         [Key]
         public int Id {  get; set; }
 
+        
         [Required(ErrorMessage ="Obrigatório informar o nome")]
         public string Nome { get; set; }
 
@@ -23,7 +24,8 @@ namespace BlogViagem.Models
 
     public enum Perfil
     {
-        Admin,
-        User
+        User,
+        Admin
+        
     }
 }

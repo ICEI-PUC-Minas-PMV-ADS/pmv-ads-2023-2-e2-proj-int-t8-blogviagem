@@ -16,6 +16,15 @@
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.Titulo)
         </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Imagem) 
+        </dt>
+
+        <dd class="col-sm-10">
+            <img src=@Html.DisplayFor(model => model.Imagem) height="80" />
+        </dd>
+
         <dt class = "col-sm-2">
             @Html.DisplayNameFor(model => model.Descricao)
         </dt>
@@ -27,12 +36,6 @@
         </dt>
         <dd class = "col-sm-10">
             @Html.DisplayFor(model => model.Datapost)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.IdAdmin)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.IdAdmin)
         </dd>
     </dl>
 </div>

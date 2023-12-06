@@ -10,9 +10,34 @@ Definição de como o software é estruturado em termos dos componentes que faze
 
 ## Tecnologias Utilizadas
 
-Descreva aqui qual(is) tecnologias você vai usar para resolver o seu problema, ou seja, implementar a sua solução. Liste todas as tecnologias envolvidas, linguagens a serem utilizadas, serviços web, frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
+1. Linguagens de Programação:
 
-Apresente também uma figura explicando como as tecnologias estão relacionadas ou como uma interação do usuário com o sistema vai ser conduzida, por onde ela passa até retornar uma resposta ao usuário.
+* C#: Para o desenvolvimento da lógica de negócios e da camada de backend.
+* HTML, JavaScript: Para o desenvolvimento da interface do usuário (frontend).
+
+2. Banco de Dados:
+
+* SQL Server: Para armazenar e gerenciar dados relacionados às postagens do blog, comentários, usuários, etc.
+
+3. Framework de Desenvolvimento Web:
+
+* ASP.NET Core: Para desenvolver o backend da aplicação web.
+
+4. ORM (Object-Relational Mapping):
+
+* Entity Framework Core: Para mapear objetos no código C# para as tabelas no banco de dados SQL Server.
+
+5. Frontend Framework:
+
+* ASP.NET MVC: Para construir a interface do usuário no lado do servidor usando C#.
+
+6. IDE (Ambiente de Desenvolvimento Integrado):
+
+* Visual Studio: Como ambiente principal de desenvolvimento, proporcionando suporte para C#, design de interface, depuração e integração com o Git.
+
+7. Controle de Versão:
+
+* Git: Para controle de versão do código-fonte.
 
 ## Hospedagem
 

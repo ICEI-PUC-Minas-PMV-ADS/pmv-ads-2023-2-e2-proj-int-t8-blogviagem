@@ -19,8 +19,8 @@ Segue credenciais de Usuario Teste e Admin:
 
 | Contas | Id  | Senha |
 |------|----|----|
-| Admin | 4 | 123123 | 
-| Usuario Teste | 5 | 123123 |
+| Admin | 1 | 123123 | 
+| Usuario Teste | 2 | 123123 |
 
 O link e o usuário/senha descritos acima são apenas exemplos de como tais informações deverão ser apresentadas.
 

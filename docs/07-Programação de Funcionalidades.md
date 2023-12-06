@@ -15,7 +15,12 @@ Por exemplo: a tabela a seguir deverá ser preenchida considerando os artefatos 
 
 Não deixe de informar o link onde a aplicação estiver disponível para acesso (por exemplo: https://adota-pet.herokuapp.com/src/index.html).
 
-Se houver usuário de teste, o login e a senha também deverão ser informados aqui (por exemplo: usuário - admin / senha - admin).
+Segue credenciais de Usuario Teste e Admin:
+
+| Contas | Id  | Senha |
+|------|----|----|
+| Admin | 4 | 123123 | 
+| Usuario Teste | 5 | 123123 |
 
 O link e o usuário/senha descritos acima são apenas exemplos de como tais informações deverão ser apresentadas.
 

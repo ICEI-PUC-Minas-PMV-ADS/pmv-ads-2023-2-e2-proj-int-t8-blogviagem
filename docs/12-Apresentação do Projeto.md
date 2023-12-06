@@ -6,7 +6,7 @@
 ## Vídeo de apresentação do Projeto
 
 
-![Vídeo de apresentação do projeto](img/video.mp4)
+![Vídeo de apresentação do Projeto](img/Vídeo/projetofinaliza.mp4)
 
 Conjunto de slides em um arquivo PowerPoint ou PDF com a apresentação do projeto contemplando todos os itens trabalhados nos demais artefatos.
 

@@ -3,7 +3,24 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+Metodologia de Desenvolvimento:
+1. Metodologia Ágil:
+•	Adotamos uma abordagem ágil para o desenvolvimento, dividindo o projeto em iterações (sprints).
+•	Realizamos reuniões rápidas para manter a equipe informada sobre o progresso e os desafios.
+2. Ambientes Locais:
+•	Usamos o Visual Studio como a principal IDE para o desenvolvimento em C#.
+•	SQL Server Management Studio (SSMS): Para gerenciar e interagir com o banco de dados SQL Server localmente.
+3. Ambientes de Produção:
+•	Hospedamos a aplicação em um ambiente de produção seguro.
+4. Gestão de Código Fonte:
+•	Usamos o Git para controle de versão. Mantendo um repositório centralizado para colaboração eficiente.
+•	Utilizamos branches para desenvolvimento de novas funcionalidades, correção de bugs e branches estáveis para releases.
+•	Implementamos um fluxo de trabalho de revisão de código usando pull requests para garantir a qualidade do código antes da fusão.
+5. Gestão de Times:
+•	 Utilizamos a ferramenta de comunicação Discord para manter a equipe conectada.
+•	Mantenha uma documentação clara, incluindo guias de contribuição, padrões de codificação e documentação do projeto.
+•	Utilizamos as sprints do próprio Github para gerenciar as tarefas, atribuir histórias de usuário a sprints e rastrear o progresso.
+
 
 ## Controle de Versão
 

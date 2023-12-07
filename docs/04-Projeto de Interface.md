@@ -14,11 +14,14 @@ O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema 
 ![Fluxograma](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t8-blogviagem/assets/97418179/b2c6f9a6-5ae2-45c1-a0eb-3aa1e067bd50)
 
 ## Wireframes
-![Página inicial ](img/wireframes/WireframeHome.png)
-![Criar Conta](img/wireframes/WireframeCriarConta.png)
-![Login](img/wireframes/WireframeLogin.png)
-![Posts](img/wireframes/WireframeListaPost.png)
-![Criar Posts](img/wireframes/WireframeCriarPost.png)
+![Página inicial ](img/wireframes/PaginaInicial.png)
+![Criar Conta](img/wireframes/CriarConta.png)
+![Login](img/wireframes/Login.png)
+![EditarUsuario](img/wireframes/EditarUsuario.png)
+![Lista de Usuarios](img/wireframes/ListaDeUsuarios.png)
+![Criar Post](img/wireframes/CriarPost.png)
+![Lista de Post](img/wireframes/ListaDePost.png)
+![Ver Post](img/wireframes/VerPost.png)
 
 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.

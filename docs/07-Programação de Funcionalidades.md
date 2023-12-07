@@ -13,7 +13,7 @@ Por exemplo: a tabela a seguir deverá ser preenchida considerando os artefatos 
 
 # Instruções de acesso
 
-Não deixe de informar o link onde a aplicação estiver disponível para acesso (por exemplo: https://adota-pet.herokuapp.com/src/index.html).
+link onde a aplicação estiver disponível para acesso: http://adrielaaaaaaa-001-site1.gtempurl.com
 
 Segue credenciais de Usuario Teste e Admin:
 

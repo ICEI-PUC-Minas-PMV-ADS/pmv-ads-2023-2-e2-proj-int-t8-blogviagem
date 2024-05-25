@@ -56,6 +56,12 @@ Abaixo está a lista de tarefas a serem executadas pelos participantes:
 | Objetivo do Teste 	| Avaliar a usabilidade do menu de adicionar publicação |
 | Ações Necessárias 	| 1. Acessar a tela home da aplicação; <br> 2. Fazer login 3. Clicar em "Meu Perfil"; <br> 4. Clicar em "Adicionar Publicação"; <br> 5. Editar informações da publicação texto e imagens; <br> 6. Clicar em "Salvar"; |
 
+| **Caso de Teste** 	| **CT-06 – Excluir Evento** 	|
+|:---:	|:---:	|
+|	Perfil 	| Usuário (apenas o que criou o Evento) |
+| Objetivo do Teste 	| Avaliar a usabilidade do menu de adicionar publicação |
+| Ações Necessárias 	| 1. Acessar a tela "Home" da aplicação ou "Meus Eventos"; <br> 2. Escolher um Evento da lista 3. Clicar no simbolo de Lixeira; <br> 4. Visualizar Pop-up se deseja realmente excluir; <br> 5. Clicar em "Sim"; |
+
 ## Dados a serem coletados
 
 Os dados importantes a serem coletados incluem:
